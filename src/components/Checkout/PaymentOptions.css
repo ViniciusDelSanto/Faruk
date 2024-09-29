@@ -1,0 +1,14 @@
+.payment-options {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+  }
+  
+  .payment-options label {
+    font-size: 14px;
+  }
+  
+  input[type="radio"] {
+    margin-right: 5px;
+  }
+  

@@ -1,0 +1,32 @@
+.order-confirmation {
+    padding: 20px;
+    background-color: #f9f9f9;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #4CAF50;
+  }
+  
+  .delivery-time {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .back-button {
+    margin-top: 30px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .back-button:hover {
+    background-color: #45a049;
+  }
+  

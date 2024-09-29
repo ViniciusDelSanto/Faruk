@@ -1,0 +1,52 @@
+.checkout {
+    padding: 20px;
+    background-color: #f9f9f9;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  label {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  input, select, textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .confirm-button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .confirm-button:hover {
+    background-color: #45a049;
+  }
+  
+  .error {
+    color: red;
+    font-size: 12px;
+  }
+  
