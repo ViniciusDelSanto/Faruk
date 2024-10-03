@@ -5,6 +5,7 @@
     background-color: #fff8e1;
     padding: 40px;
     border-radius: 10px;
+    border: solid #ccc 1px;
   }
   
   .hero-text {
@@ -34,6 +35,10 @@
   
   .cta-button:hover {
     background-color: #45a049;
+  }
+
+  .hero-image{
+    width: 30%;
   }
   
   .hero-image img {
