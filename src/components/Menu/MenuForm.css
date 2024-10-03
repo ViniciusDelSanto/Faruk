@@ -1,4 +1,6 @@
 .menu-form {
+    display: flex;
+    flex-direction: column;
     margin-bottom: 30px;
   }
   
@@ -14,13 +16,15 @@
   
   .form-group input,
   .form-group textarea {
-    width: 60%;
+    width: 100%;
     padding: 8px;
     border: 1px solid #b3b3b3;
     border-radius: 4px;
   }
   
-  button {
+  .menu-button {
+    align-self: center;
+    width: 40%;
     background-color: #27ae60;
     color: white;
     border: none;

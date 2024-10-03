@@ -16,7 +16,7 @@ const Login = () => {
       <div className="login-card">
         <h1 className="login-title">Faruk - Admin</h1>
         <form onSubmit={handleLogin} className="login-form">
-          <div className="form-group">
+          <div className="login-form-group">
             <label htmlFor="email">E-mail</label>
             <input 
               type="email" 
@@ -27,7 +27,7 @@ const Login = () => {
               className="login-input"
             />
           </div>
-          <div className="form-group">
+          <div className="login-form-group">
             <label htmlFor="password">Senha</label>
             <input 
               type="password" 

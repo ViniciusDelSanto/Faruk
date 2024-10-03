@@ -48,7 +48,7 @@ const MenuForm = ({ onAddItem }) => {
           step="0.01" 
         />
       </div>
-      <button type="submit">Adicionar Item</button>
+      <button className='menu-button' type="submit">Adicionar Item</button>
     </form>
   );
 };

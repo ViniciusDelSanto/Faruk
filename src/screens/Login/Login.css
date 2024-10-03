@@ -29,12 +29,12 @@
     flex-direction: column;
   }
   
-  .form-group {
+  .login-form-group {
     margin-bottom: 20px;
   }
   
   .login-input {
-    width: 100%;
+    width: 93%;
     padding: 12px;
     border-radius: 4px;
     border: 1px solid #ccc;
