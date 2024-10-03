@@ -1,13 +1,13 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Home from './screens/Home';
-import Menu from './screens/Menu';
-import Cart from './screens/Cart';
-import Checkout from './screens/Checkout';
-import OrderConfirmation from './screens/OrderConfirmation';
-import Contact from './screens/Contact';
-import Login from './screens/Login';
-import Dashboard from './screens/Dashboard';
+import Home from './screens/Home/Home';
+import Menu from './screens/Menu/Menu';
+import Cart from './screens/Cart/Cart';
+import Checkout from './screens/Checkout/Checkout';
+import OrderConfirmation from './screens/OrderConfirmation/OrderConfirmation';
+import Contact from './screens/Contact/Contact';
+import Login from './screens/Login/Login';
+import Dashboard from './screens/Dashboard/Dashboard';
 
 import Header from './components/Header';
 import Footer from './components/Footer';

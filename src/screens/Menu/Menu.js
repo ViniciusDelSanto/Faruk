@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import MenuItem from '../components/Menu/MenuItem';
-import MenuForm from '../components/Menu/MenuForm';
+import MenuItem from '../../components/Menu/MenuItem';
+import MenuForm from '../../components/Menu/MenuForm';
 import './Menu.css';
 
 const Menu = () => {

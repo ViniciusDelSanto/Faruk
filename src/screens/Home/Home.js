@@ -1,7 +1,7 @@
 import React from 'react';
-import HeroSection from '../components/Home/HeroSection';
-import FeaturedMenu from '../components/Home/FeaturedMenu';
-import TeamSection from '../components/Home/TeamSection';
+import HeroSection from '../../components/Home/HeroSection';
+import FeaturedMenu from '../../components/Home/FeaturedMenu';
+import TeamSection from '../../components/Home/TeamSection';
 import './Home.css';
 
 const Home = () => {

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import PaymentOptions from '../components/Checkout/PaymentOptions';
+import PaymentOptions from '../../components/Checkout/PaymentOptions';
 import './Checkout.css';
 
 const Checkout = () => {

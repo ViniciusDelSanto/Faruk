@@ -1,5 +1,5 @@
 import React from 'react';
-import OrderSummary from '../components/OrderConfirmation/OrderSummary';
+import OrderSummary from '../../components/OrderConfirmation/OrderSummary';
 import './OrderConfirmation.css';
 
 const OrderConfirmation = ({ orderDetails, deliveryTime }) => {
