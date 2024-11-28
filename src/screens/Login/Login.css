@@ -66,3 +66,17 @@
     background-color: #3e8e41;
   }
   
+  .dashboard-button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .dashboard-button:hover {
+    background-color: #45a049;
+  }
+  
